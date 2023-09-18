@@ -4,7 +4,7 @@ This project uses Tableau to visualize COVID-19 data for India. It showcases var
 
 ![COVID-19 Visualization](dash/dasha.png)
 
-![COVID-19 Visualization](charts/pareto.png)
+![COVID-19 Visualization](Charts/pareto.png)
 
 ## Data Source
 
