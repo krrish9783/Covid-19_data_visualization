@@ -4,6 +4,8 @@ This project uses Tableau to visualize COVID-19 data for India. It showcases var
 
 ![COVID-19 Visualization](dash/dasha.png)
 
+![COVID-19 Visualization](charts/pareto.png)
+
 ## Data Source
 
 The data for this project is sourced from [https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india] and is regularly updated to maintain accuracy.
